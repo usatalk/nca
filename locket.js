@@ -50,7 +50,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: " bạn đang chạy config 45s ",
+            title: " KHUNG MẶC ĐỊNH LÀ SHIN, CONAN, DORAEMON ",
             feature_set: [
                 {
                     title: "🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍",
@@ -302,7 +302,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "midautumn_2026",
-            url: "https://i.ibb.co/R4gh8WHW/Khung-n-ng-l-ng-Saiyan-neon-trong-su-t.png",
+            url: "https://i.ibb.co/YFFRqR0N/2a-Obo-R6di-Bgr-N6t-ZU1-ECi-X3-R1-Xgg-L5o8-JHkr-Ml-JA-1.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
